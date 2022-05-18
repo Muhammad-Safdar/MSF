@@ -8,8 +8,7 @@ import requests
 os.system('git pull')
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from crack9 import __xXx____
-    __xXx____()
+    print("Oops sorry brother Tool has been locked")
 elif bit == '32bit':
-    from crack9 import __xXx____
+    from crac9 import __xXx____
     __xXx____()
